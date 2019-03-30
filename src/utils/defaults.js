@@ -70,14 +70,14 @@ const defaults = {
   maxTapDuration: 200, // ms
   highlight: {
     animated: true,
-    height: '1.8rem',
+    height: '2.88rem',
     borderWidth: '0',
     borderStyle: 'solid',
     opacity: 1,
   },
   highlightCaps: {
     animated: true,
-    height: '1.8rem',
+    height: '2.88rem',
     borderWidth: '0',
     borderStyle: 'solid',
     opacity: 1,
@@ -117,7 +117,7 @@ const defaults = {
     bars: null,
     dayPopoverContent: {
       color: '#333333',
-      fontSize: '.8rem',
+      fontSize: '1.28rem',
       whiteSpace: 'nowrap',
     },
     navHeader: null,

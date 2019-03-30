@@ -36,7 +36,7 @@
       @mouseover='mouseover'
       @mouseleave='mouseleave'>
       <slot
-        name='day-content' 
+        name='day-content'
         :day='day'
         :content-style='contentStyle'
         :attributes='attributesList'>
@@ -642,7 +642,7 @@ export default {
   line-height: 1
   border-radius: $day-content-border-radius
   transition: all $day-content-transition-time
-  margin: .1rem .08rem
+  margin: .16rem .128rem
 
 .c-day-backgrounds
   overflow: hidden

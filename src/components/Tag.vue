@@ -71,7 +71,7 @@ $backgroundColor: #fafafa
 .c-delete
   line-height: 1.5
   cursor: pointer
-  font-size: 1rem
+  font-size: 1rem * 1.6rem
   user-select: none
   background-color: rgba(10, 10, 10, 0.2)
   border: none
