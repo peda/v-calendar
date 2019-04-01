@@ -1,5 +1,5 @@
 {
-  "name": "v-calendar",
+  "name": "@peda/v-calendar",
   "version": "0.9.7",
   "description": "A clean and extendable plugin for building simple attributed calendars in Vue.js.",
   "keywords": [
